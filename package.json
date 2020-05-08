@@ -1,0 +1,19 @@
+{
+  "name": "npxcard",
+  "version": "1.0.0",
+  "description": "Business card reachable with the command npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-Minder/npxcard.git"
+  },
+  "author": "J. Minder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julien-Minder/npxcard/issues"
+  },
+  "homepage": "https://github.com/Julien-Minder/npxcard#readme"
+}
