@@ -1,5 +1,5 @@
 {
-  "name": "npxcard",
+  "name": "@john-ventura/npxcard",
   "version": "1.0.0",
   "description": "Business card reachable with the command npx",
   "main": "index.js",
