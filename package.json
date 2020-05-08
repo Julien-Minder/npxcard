@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Business card reachable with the command npx",
   "main": "index.js",
+  "bin": {
+    "dajuju": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Julien-Minder/npxcard/issues"
   },
-  "homepage": "https://github.com/Julien-Minder/npxcard#readme"
+  "homepage": "https://github.com/Julien-Minder/npxcard#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0"
+  }
 }
