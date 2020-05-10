@@ -34,8 +34,8 @@ npm run test
 
 👤 **J. Minder**
 
-* Github: [@Julien-Minder](https://github.com/Julien-Minder)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/julien-minder](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/julien-minder)
+- Github: [@Julien-Minder](https://github.com/Julien-Minder)
+- LinkedIn: [@julien-minder](https://linkedin.com/in/julien-minder)
 
 ## 🤝 Contributing
 
@@ -50,5 +50,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [J. Minder](https://github.com/Julien-Minder).<br />
 This project is [ISC](https://github.com/Julien-Minder/npxcard/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
